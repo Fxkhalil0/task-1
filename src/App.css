@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+.main__preview{
+  display: flex;
+}
+.css-dmmspl-MuiFormGroup-root {
+  flex-direction: row !important;
+  gap: 17px !important;
+}
+.css-fm6fox {
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
